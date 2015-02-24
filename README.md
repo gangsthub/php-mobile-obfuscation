@@ -11,7 +11,7 @@ Mobile Number Obfuscation for (Yet Another) Wordpress site
 
 Remember to substitute asteriscs (and "+11") by your desired number (and country code).
 
-`php
+```php
 <?php
 	$mobile_number_prefix = "***";
 	$mobile_number = "******";
@@ -21,4 +21,4 @@ Remember to substitute asteriscs (and "+11") by your desired number (and country
 		echo 'Tel. ' , $mobile_number_prefix , $mobile_number , '.';
 		}
 ?>
-`
+```
