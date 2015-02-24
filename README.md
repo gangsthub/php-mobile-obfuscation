@@ -4,6 +4,10 @@ Mobile Number Obfuscation for (yet another) *Wordpress* site.
 
 This code will allow you to show your number as __simple text in desktop computers__ and as __a link in mobile phones, direct to phone calling function__ in mobile devices; meanwhile your number is always obfuscated.
 
+You can see an example in the footer of: http://erikaabenia.com
+
+Enjoy!
+
 ## Requires:
 
 - PHP library *Mobile_Detect*
