@@ -1,11 +1,11 @@
 # php-mobile-obfuscation
 
-Mobile Number Obfuscation for (Yet Another) Wordpress site
+Mobile Number Obfuscation for (yet another) *Wordpress* site
 
 ## Requires:
 
-- PHP library Mobile_Detect
-    - There's a plugin for wordpress: https://wordpress.org/plugins/wp-mobile-detect/
+- PHP library *Mobile_Detect*
+    - There's a *plugin* for *wordpress*: https://wordpress.org/plugins/wp-mobile-detect/
 
 ## Usage
 
