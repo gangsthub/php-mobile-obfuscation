@@ -2,7 +2,7 @@
 
 Mobile Number Obfuscation for (yet another) *Wordpress* site.
 
-This code will allow you to show your number as _simple text in desktop computers_ and as _a link in mobile phones, direct to phone calling function_ in mobile devices; meanwhile your number is always obfuscated.
+This code will allow you to show your number as __simple text in desktop computers__ and as __a link in mobile phones, direct to phone calling function__ in mobile devices; meanwhile your number is always obfuscated.
 
 ## Requires:
 
